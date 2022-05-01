@@ -1,6 +1,10 @@
 # compornent（共通部品）
 
 ## イメージ画像
+- chrome
+- 
+- safari
+- 
 
 ## 概要
 
