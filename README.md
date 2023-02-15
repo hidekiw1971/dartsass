@@ -1,4 +1,4 @@
-画像
+画像をコピペ
 
 # compornent（共通部品）
 - 説明
@@ -6,6 +6,12 @@
 ## portfolio url:
 
 - https://c-0000.wtb.cfbx.jp/
+
+## codepen url:
+- https://xxx
+
+## reference site:
+- 
 
 ## 更新履歴
 
