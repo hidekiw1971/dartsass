@@ -3,6 +3,15 @@
 # compornent（共通部品）
 - 説明
 
+# w3c html/css ck
+- confirmed or unconfirmed
+
+# browser ck
+- chrome ok ng
+- safari ok ng
+- firefox ok ng
+- edge ok ng
+
 ## portfolio url:
 
 - https://c-0000.wtb.cfbx.jp/
