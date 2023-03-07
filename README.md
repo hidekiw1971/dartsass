@@ -7,10 +7,16 @@
 - confirmed or unconfirmed
 
 # browser ck
-- chrome ok ng
-- safari ok ng
-- firefox ok ng
-- edge ok ng
+## pc実機ck
+- chrome → ok/ng
+- firefox → ok/ng
+- safari → ok/ng
+- edge → ok/ng/unconfirmed
+## mobile実機ck（iPhone）
+- chrome → ok/ng
+- firefox → ok/ng
+- safari → ok/ng
+- edge → ok/ng/unconfirmed
 
 ## portfolio url:
 
